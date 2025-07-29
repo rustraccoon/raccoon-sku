@@ -22,7 +22,7 @@
 - OS: Windows 10+, macOS 11+, or Linux (Debian-based)
 - Node.js (for development only): v22+
 - RAM: 2 GB minimum
-- Disk: < 400MB storage
+- Disk: < 800MB storage
 
 ## 🖨️ Barcode Printing
 
